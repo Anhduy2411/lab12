@@ -1,0 +1,24 @@
+.carousel-item {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.bg-img1 {
+  background-image: url("https://via.placeholder.com/1200x500/007bff/ffffff?text=Slide+1");
+}
+
+.bg-img2 {
+  background-image: url("https://via.placeholder.com/1200x500/28a745/ffffff?text=Slide+2");
+}
+
+.bg-img3 {
+  background-image: url("https://via.placeholder.com/1200x500/ffc107/ffffff?text=Slide+3");
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+}
